@@ -13,6 +13,10 @@ This is a ReactJS website created for an Ethereum-based NFT project called "Moon
 - Contributing
 - License
 
+## Sitemap
+![Example image]([example.png](https://i.imgur.com/IddWkSL.png))
+
+
 ## Features
 - View and browse the NFT collection
 - Purchase NFTs using cryptocurrency
