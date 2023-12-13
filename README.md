@@ -1,4 +1,4 @@
-# React-JS-NFT-Collection-Buzz-Burgers-
+# Buzz-Burgers
 This is a ReactJS website created for an Ethereum-based NFT project called "Moon Burgers" or "Buzz Burgers Club". The website serves as a platform for users to view and purchase NFTs from the collection.
 
 
